@@ -1,0 +1,5 @@
+formularz dodający tytuł, treść i autora:
+	artykułuł/trailer
+dodawanie do tablicy tego artykułu/trailera
+
+wyswietlanie articli w mainie, a trailerów w asaidzie
